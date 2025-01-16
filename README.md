@@ -1,6 +1,7 @@
 ## Hey, I'm Iosi 👋
 
 iOS App Designer. 
+Tinkering SwiftUI. 
 
 
 <!--
