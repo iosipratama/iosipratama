@@ -1,12 +1,8 @@
+My links all over the internet: 
+
 [Website](iosipratama.com)
 
 [Store](store.iosipratama.com)
-
-Social Network
-- x - @iosipratama
-- threads - @iosipratama
-- Instagram - iosipratama
-- Linkedin - in/iosipratama
 
 Work
 - Github
@@ -15,12 +11,21 @@ Work
 - Dribbble
 - Speaker Deck
 
+Social Network
+- x - @iosipratama
+- threads - @iosipratama
+- Instagram - iosipratama
+- Linkedin - in/iosipratama
+
+Writing 
+- Medium
+- Substack
+
 Reference
 - Pinterest
 - Cosmos
 
-Medium
-Reddits
-Substack
-Quora
+Forum
+- Reddits
+- Quora
 
