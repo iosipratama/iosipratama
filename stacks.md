@@ -4,10 +4,11 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 ### 💻 Hardware 
 - **MacBook Pro M3 (14-inch)**: my main work machine.  
 - **iPhone 14 Pro**
-- **Magic Mouse**: comfortable for design use.  
-- **Keychron K3**: compact mechanical keyboard.  
+- **Magic Mouse**: comfortable for design use.
+- **Keychron K3**: compact mechanical keyboard.
+- **Magic Keyboard**: keyboard for my iPad. since 2021.   
 - **Logitech Brio 500**: value for money webcam.  
-- **Sony CH710N Headphones**: great for focus and music.  
+- **Sony CH710N Headphones**: great for focus and music. since 2020.
 - **Nillkin Adjustable MacBook Stand (ProDesk)**: keeps my desk setup ergonomic.  
 - **BenQ PD2725U Monitor**: best alternative to Studio display for macbook.  
 - **iPad Pro 11 (2020)**: sometimes useful sometimes not.  
