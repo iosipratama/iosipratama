@@ -2,7 +2,9 @@ My links all over the internet:
 
 [Website](https://iosipratama.com/)
 
-[Store](store.iosipratama.com)
+[Store](https://store.iosipratama.com)
+
+[My studio page](https://studio.iosipratama.com/)
 
 Work
 - [Github](https://github.com/iosipratama) 
@@ -27,6 +29,6 @@ Reference
 - [Cosmos](https://www.cosmos.so/iosipratama)
 
 Forum
-- Reddits
+- Reddits 
 - Quora
 
