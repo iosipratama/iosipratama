@@ -4,8 +4,10 @@
 [Book highlights](https://www.goodreads.com/notes/152145572-iosi-pratama) - My kindle notes and highlights on goodreads
 
 2025 Read
-- The Bitcoin Standard
-- 
+- The Bitcoin Standard by Saifedean Ammous
+- Excellent Advice for Living by Kevin Kelly
+
+
 
 All-time fav books
 - [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
@@ -18,3 +20,5 @@ Fav-books about money
 - I will teach you to be rich by Remit Sethi
 
 Fav-books about work  
+- Rework
+- It doesn't have to be crazy at work
