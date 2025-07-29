@@ -6,6 +6,9 @@ My links all over the internet:
 
 [My studio page](https://studio.iosipratama.com/)
 
+Product 
+- [iOS App Templates](http://ui8.net/iosipratama)
+
 Work
 - [Github](https://github.com/iosipratama) 
 - [Layers](https://layers.to/iosipratama)
@@ -27,8 +30,4 @@ Writing
 Reference
 - [Pinterest](https://id.pinterest.com/iosipratama/)
 - [Cosmos](https://www.cosmos.so/iosipratama)
-
-Forum
-- Reddits 
-- Quora
 
