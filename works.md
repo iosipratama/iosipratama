@@ -2,8 +2,7 @@
 A timeline of my work and projects. 
 
 ### 2025
-- **[echo Website](https://getecho.net/)**: designing and building Echo website using Framer. Company: [Tappz](https://www.tappz.com/). 
-Company: 
+- **[echo Website](https://getecho.net/)**: designing and building Echo website using Framer. 💼 [Tappz](https://www.tappz.com/).  
 - **[Personal website v3](https://iosipratama.com/)**: updates personal websites. 
 
 
