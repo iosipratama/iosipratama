@@ -7,11 +7,14 @@ A timeline of my work and projects.
 
 
 ### 2024
-- 
+- **[echo iOS app](#)**: design. 💼 [Tappz](https://www.tappz.com/). 
 
 
 ### 2023
-- 
+- **[AI Type iOS app](#)**: design. 💼 [Tappz](https://www.tappz.com/).
+- **[MagicAI iOS app](#)**: design. 💼 [Tappz](https://www.tappz.com/).
+- **[Tappz Websites](#)**: designing and bulding tappz website using Webflow. 💼 [Tappz](https://www.tappz.com/).
+- **[Aksestani Android app](#)**: design. 🧢 Freelance.
 
 
 ### 2022
