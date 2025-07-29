@@ -21,10 +21,12 @@ A curated of talented individuals I've worked with or would love to collaborate 
 
 
 ### Framer
--
+- 
 
 
 ### Lottie Animaiton
 - 
 
 
+### Studio
+- 
