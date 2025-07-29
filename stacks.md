@@ -39,5 +39,10 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 - **Reminders**: simple and effective for quick to-dos, share with my wife. 
 - **Things**: this apps to organize my side-project to-dos. 
 - **Raindrop**: managing bookmarks.
+- **ProtonMail**: privacy-first email for finance needs. 
+- **ProtonVPN**: stay secured and private. 
+
+### Finance
+- **Ledger, Tangem, and TrustWallet**: defi wallet. 
 
   
