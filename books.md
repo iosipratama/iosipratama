@@ -6,12 +6,19 @@
 2025 Read
 - [The Bitcoin Standard by Saifedean Ammous](https://saifedean.com/tbs)
 - [Excellent Advice for Living by Kevin Kelly](https://kk.org/books/excellent-advice-for-living)
-- [My Indie Book](https://www.myindiebook.com/)
+- [My Indie Book by Tony Dinh](https://www.myindiebook.com/)
+- [Clear Thinking by Shane Parrish]()
 
+
+2024 Read
+- Fall in love with the problem by Uri Levine 
+- 
+
+--- 
 
 All-time fav books
 - [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
-- The Alchemist
+- The Alchemist by Paulo Coelho
 
 Fav-books about money 
 - Money Master the Game by Anthony Robbins
@@ -23,5 +30,6 @@ Fav-books about work
 - Rework
 - It doesn't have to be crazy at work
 
-Fav design books.
-- 
+Fav design books
+- Dieter Rams: the complete works
+- Dieter Rams: As Little Design as Possible.
