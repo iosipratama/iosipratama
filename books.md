@@ -7,12 +7,8 @@
 - [The Bitcoin Standard by Saifedean Ammous](https://saifedean.com/tbs)
 - [Excellent Advice for Living by Kevin Kelly](https://kk.org/books/excellent-advice-for-living)
 - [My Indie Book by Tony Dinh](https://www.myindiebook.com/)
-- [Clear Thinking by Shane Parrish]()
+- [Clear Thinking by Shane Parrish](https://fs.blog/clear/)
 
-
-2024 Read
-- Fall in love with the problem by Uri Levine 
-- 
 
 --- 
 
@@ -33,3 +29,16 @@ Fav-books about work
 Fav design books
 - Dieter Rams: the complete works
 - Dieter Rams: As Little Design as Possible.
+
+
+---
+
+2024 Read
+- Fall in love with the problem by Uri Levine 
+- 101 Things I Learned® in Product Design School
+
+2022 Read
+- I Will Teach You to Be Rich by Remit Sethi
+- No Rules Rules: Netflix and the Culture of Reinvention
+- How to win friends and Influence People
+- The Rational Optimist: How Prosperity Evolves 
