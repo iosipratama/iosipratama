@@ -16,7 +16,7 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 
 ### 🖥️ Development Tools
 - **GitHub**: to store and share projects.
-- **Cursor**: IDE for web dev. 
+- **Visual Studio Code**: IDE for web dev. 
 - **Xcode**: for building iOS app.
 - **Framer**: building faster websites. 
 - **Playground**: learn Swift and SwiftUI. 
