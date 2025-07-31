@@ -4,6 +4,8 @@ My links all over the internet:
 
 [Store](https://store.iosipratama.com)
 
+[Hire me via Contra](https://contra.com/iosipratama)
+
 [My studio page](https://studio.iosipratama.com/)
 
 Product 
