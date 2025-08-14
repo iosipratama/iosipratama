@@ -33,7 +33,7 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 - **t3.Chat**: cheaper alternative to chatgpt with access to other models. 
 - **Raycast**: better macOS spotlight alternative
 - **Notion**: for organizing life.  
-- **Craft**: clean and beautiful app for writing and curating.  
+- [**Upnote**](https://getupnote.com/): second brain note.  
 - **YouTube Music**: streaming music.  
 - **Apple Calendar**: keeps my schedule on track.  
 - **Reminders**: simple and effective for quick to-dos, share with my wife. 
@@ -41,6 +41,7 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 - **Raindrop**: managing bookmarks.
 - **ProtonMail**: privacy-first email for finance needs. 
 - **ProtonVPN**: stay secured and private. 
+
 
 ### Finance
 - **Ledger, Tangem, and TrustWallet**: defi wallet. 
