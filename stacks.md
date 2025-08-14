@@ -15,17 +15,17 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 - **Thronmax Dome Plus M3**: microphone for meetings.
 
 ### 🖥️ Development Tools
-- **GitHub**: to store and share projects.
-- **Visual Studio Code**: IDE for web dev. 
-- **Xcode**: for building iOS app.
-- **Framer**: building faster websites. 
-- **Playground**: learn Swift and SwiftUI. 
+- [**GitHub**](https://github.com/): to store and share projects.
+- [**Visual Studio Code**](https://code.visualstudio.com/): IDE for web dev. 
+- [**Xcode**](https://developer.apple.com/xcode/): for building iOS app.
+- [**Framer**](https://www.framer.com/): building faster websites. 
+- [**Playground**](https://www.apple.com/id/swift/playgrounds/): learn Swift and SwiftUI. 
 
 ### 🖱️ Design Tools 
-- **Figma**: main design tools.
-- **Affinity Designer**: alternative for advanced vector manipulation.
-- **Nucleo app**: managing icons.
-- **Play**: making iOS prototypes.
+- [**Figma**](https://www.figma.com/): main design tools.
+- [**Affinity Designer**](https://affinity.serif.com/en-us/designer/): alternative for advanced vector manipulation.
+- [**Nucleo app**](https://nucleoapp.com/): managing icons.
+- [**Play**](https://www.createwithplay.com/): making iOS prototypes.
 
 
 ### 📱 Other apps
@@ -44,6 +44,6 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 
 
 ### Finance
-- **Ledger, Tangem, and TrustWallet**: defi wallet. 
+- [**Ledger**](https://www.ledger.com/), [**Tangem**](https://tangem.com/), and [**TrustWallet**](https://trustwallet.com/): defi wallet. 
 
   
