@@ -29,18 +29,18 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 
 
 ### 📱 Other apps
-- **Dia**: main browser.
-- **t3.Chat**: cheaper alternative to chatgpt with access to other models. 
-- **Raycast**: better macOS spotlight alternative
-- **Notion**: for organizing life.  
+- [**Dia**](https://www.diabrowser.com/): main browser.
+- [**t3.Chat**](https://t3.chat/): cheaper alternative to chatgpt with access to other models. 
+- [**Raycast**](https://www.raycast.com/): better macOS spotlight alternative
+- [**Notion**](https://www.notion.so/): wiki for organizing life & business.  
 - [**Upnote**](https://getupnote.com/): second brain note.  
-- **YouTube Music**: streaming music.  
+- [**YouTube Music**](https://music.youtube.com/): streaming music.  
 - **Apple Calendar**: keeps my schedule on track.  
 - **Reminders**: simple and effective for quick to-dos, share with my wife. 
-- **Things**: this apps to organize my side-project to-dos. 
-- **Raindrop**: managing bookmarks.
-- **ProtonMail**: privacy-first email for finance needs. 
-- **ProtonVPN**: stay secured and private. 
+- [**Things**](https://culturedcode.com/): this apps to organize my side-project to-dos. 
+- [**Raindrop**](https://raindrop.io/): managing bookmarks.
+- [**ProtonMail**](http://protonmail.com/): privacy-first email for finance needs. 
+- [**PureVPN**](https://www.purevpn.com/): stay secured and private. 
 
 
 ### Finance
