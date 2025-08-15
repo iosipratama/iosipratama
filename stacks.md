@@ -45,5 +45,7 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 
 ### Finance
 - [**Ledger**](https://www.ledger.com/), [**Tangem**](https://tangem.com/), and [**TrustWallet**](https://trustwallet.com/): defi wallet. 
+- Pintu: local crypto exchange. 
+
 
   

@@ -16,3 +16,10 @@ Daftar links dari newsletter pribadi ku.
 - Twitter Threads. [How to design clean dashboard](https://x.com/daltonuiux/status/1899507459791683603).
 - Tulisan. [Design Buddy](https://designbuddy.substack.com/) nya Thomas Budiman. 
 - Video: [Reminder untuk desainer](https://vimeo.com/24715531) yg merasa desainnnya masih jelek.
+
+21 Jul 2025: [**Berkabar 34: Siap sebelum waktunya**](https://iosipratama.substack.com/p/berkabar-34-siap-sebelum-waktunya)
+- Buku. [My Indie Books](https://www.myindiebook.com/)
+- Link. [Friends](https://wojtek.im/friends)
+- Tutorial. [A designer guide to terminal](https://react.design/terminal)
+- Referensi. [SwiftUI Prototype](https://swiftui.design/code)
+- Youtube channel. [Chris Raroque](https://www.youtube.com/feed/subscriptions/UC4x3CR25WSlvMJUtSPPzwwg)
