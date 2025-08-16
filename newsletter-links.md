@@ -38,8 +38,18 @@ Daftar links dari newsletter pribadi ku.
 - Tulisan. [Copying is the best way to start](https://www.reproof.app/blog/start-by-copying). 
 - Tulisan. [Build assets that work for you after you are finished working on them](https://www.wealest.com/articles/build-assets). 
 
-Berkabar 31: Prioritas itu kunci biar ngga overwhelm
-- 
+30 Jun 2025: [**Berkabar 31: Prioritas itu kunci biar ngga overwhelm**](https://iosipratama.substack.com/p/berkabar-31-prioritas-kunci-biar)
+- Buku. [Make Time](https://maketime.blog/). 
+- Website. [Literal Club](https://literal.club/). 
+- Website. [Minimalism](https://minimalism.com/).
+- Referensi. [Cosmos.co](https://www.cosmos.so/iosipratama).
+- Portfolio. [Rauno.me](https://rauno.me/).
+- Desainer. [Ryo Lu](https://x.com/ryolu_). 
 
-Berkabar 30: Hidup itu berfase
-- 
+23 Jun 2025: [**Berkabar 30: Hidup itu berfase**](https://iosipratama.substack.com/p/berkabar-30-hidup-itu-berfase)
+- Link desain. [Spot in production](https://www.spottedinprod.com/).
+- Link desain. [headers.club](https://headers.club/).
+- Video. [Swift News](https://www.youtube.com/watch?v=14ZpgTJ5I0Q) dari Sean Allen di Youtube.
+- Newsletter. [Unknown Arts](https://www.unknownarts.co/). 
+- Buku. [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861).
+- Website. [Steve Jobs Archives](https://stevejobsarchive.com/).
