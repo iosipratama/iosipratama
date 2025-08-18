@@ -101,3 +101,17 @@ Daftar links dari newsletter pribadi ku.
 - Tool. [Rive](https://rive.app/).
 - Font. [Font share](https://www.fontshare.com/).
 - Link. [Material 3 design kit](https://www.figma.com/community/file/1035203688168086460). 
+
+6 Feb 2023: [**Berkabar 24: Rahasia bikin progress -> Disiplin**](https://iosipratama.substack.com/p/berkabar-24-rahasia-bikin-progress)
+- Desainer. [SJ Zhang](https://www.sj.land/).
+- Font. [Craftwork sans](https://craftwork.design/downloads/craftwork-sans/).
+- Buku. [Tiny Design Club](https://www.tinydesign.club/). 
+- Link. [Doing cool stuff](https://www.doingcoolstuff.xyz/). 
+
+31 Dec 2022: Berkabar 23: Terima kasih 2022. 
+
+14 Nov 2022: Berkabar 22: Budger belajar.
+
+7 Nov 2022: Berkabar 21: Done today is better than perfect tomorrow
+
+4 Jul 2022: Berkabar 20: Sesekali gapapa hari ini tidak lebih baik daripada kemarin. 
