@@ -94,4 +94,10 @@ Daftar links dari newsletter pribadi ku.
 - Tulisan. [Good design](https://www.vitsoe.com/rw/about/good-design) by Dieter Rams. 
 
 
-Berkabar 25: Kalau mau progress jangan banyak ngeles
+13 Feb 2023: [**Berkabar 25: Kalau mau progress jangan banyak ngeles**](https://iosipratama.substack.com/p/berkabar-25-kalau-mau-progress-jangan)
+- Twitter thread. [Referensi belajar web3](https://twitter.com/ljin18/status/1479111931977867275?s=20). 
+- Desainer. [Vladimir Gruev](https://dribbble.com/gruev/shots). 
+- Tool. [html to design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design).
+- Tool. [Rive](https://rive.app/).
+- Font. [Font share](https://www.fontshare.com/).
+- Link. [Material 3 design kit](https://www.figma.com/community/file/1035203688168086460). 
