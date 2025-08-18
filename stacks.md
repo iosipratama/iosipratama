@@ -43,9 +43,9 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 - [**PureVPN**](https://www.purevpn.com/): stay secured and private. 
 
 
-### Finance
+### 💸 Finance
 - [**Ledger**](https://www.ledger.com/), [**Tangem**](https://tangem.com/), and [**TrustWallet**](https://trustwallet.com/): defi wallet. 
-- Pintu: local crypto exchange. 
+- [**Pintu**](https://pintu.co.id/): local crypto exchange. 
 
 
   
