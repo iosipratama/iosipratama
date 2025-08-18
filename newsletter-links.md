@@ -68,9 +68,21 @@ Daftar links dari newsletter pribadi ku.
 - Akun twitter. [Screenshots first company](https://x.com/screenshotfirst).
 - [Playlist](https://www.youtube.com/watch?v=6-aSWlA3WLM) nemenin kerja.
 
-Berkabar 28: Desain + AI = Tetap relevan
+9 Jun 2025: [**Berkabar 28: Desain + AI = Tetap relevan**](https://iosipratama.substack.com/p/berkabar-28-desain-ai-tetap-relevan)
+- Video. [Beginners guide to AI](https://x.com/rileybrown_ai/status/1914139690791481766).
+- Link. [Awesome prompt](https://www.awesomeprompts.cc/).
+- Aplikasi. [Raindrop.io](http://raindrop.io/)
+- Tulisan. [How I leverage AI in my everyday work](https://www.seanhalpin.xyz/notes/how-i-code-with-ai).
+- Link. [Design Resources](https://designresourc.es/). 
 
-Berkabar 27: Terima kasih 2023
+
+26 Dec 2023: [**Berkabar 27: Terima kasih 2023**](https://iosipratama.substack.com/p/berkabar-27-terima-kasih-2023)
+- Aplikasi. [Use Today](https://www.usetoday.app/).
+- Tulisan. [Start by Indie Hackers](https://www.indiehackers.com/start).
+- Buku. [The iOS App Icon Book](https://pixelresort.gumroad.com/l/theiosappiconbook?layout=profile) by Michael Flarup.
+- Resources. [The Freelancing Things](https://www.freelancethings.co/).
+- Link. [Doing cool stuffs](https://www.doingcoolstuff.xyz/). 
+
 
 Berkabar 26: Being healthy
 
