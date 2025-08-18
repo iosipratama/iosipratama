@@ -84,6 +84,14 @@ Daftar links dari newsletter pribadi ku.
 - Link. [Doing cool stuffs](https://www.doingcoolstuff.xyz/). 
 
 
-Berkabar 26: Being healthy
+27 Feb 2023: [**Berkabar 26: Being healthy**](https://iosipratama.substack.com/p/berkabar-26-being-healthy)
+- Desainer. [Stas Aki](https://stasaki.com/).
+- Bacaan. [Guiding principles dalam mendesain ReadyMag](https://readymag.com/readymag/design-principles/).
+- Website Portfolio. [Chester](https://chester.how/).
+- Tool. [EightShapes Specs](https://www.figma.com/community/plugin/1205622541257680763/EightShapes-Specs).
+- Newsletter. [Oliur](https://oliur.substack.com/).
+- Tulisan. [How to increase barakah in your wealth](https://academy.musaffa.com/how-to-increase-barakah-in-your-wealth). 
+- Tulisan. [Good design](https://www.vitsoe.com/rw/about/good-design) by Dieter Rams. 
+
 
 Berkabar 25: Kalau mau progress jangan banyak ngeles
