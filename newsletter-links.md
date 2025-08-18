@@ -1,6 +1,13 @@
 
 Daftar links dari newsletter pribadi ku. 
 
+18 Aug 2025: [**Berkabar 37: Menjalani banyak role**](https://iosipratama.substack.com/p/berkabar-37-menjalani-banyak-role)
+- Aplikasi. [Upnote](https://getupnote.com/)
+- Situs. [learnxinyminutes](https://learnxinyminutes.com/)
+- Bacaan. [appstack.club](https://appstacks.club/)
+- Tulisan. [My playbook for shipping side projects](https://brianlovin.com/writing/my-playbook-for-shipping-side-projects).
+- Tulisan. [Insight.design](https://medium.com/insightdesign)
+
 6 Aug 2025: [**Berkabar 36: Growth itu painful**](https://iosipratama.substack.com/p/berkabar-36-growth-itu-painful)
 - TED Talk. [Learning Software Engineer during AI Era](https://www.youtube.com/watch?v=w4rG5GY9IlA)
 - Tulisan. [5 things I learned from 5 years at Vercel](https://leerob.com/vercel)
@@ -53,3 +60,13 @@ Daftar links dari newsletter pribadi ku.
 - Newsletter. [Unknown Arts](https://www.unknownarts.co/). 
 - Buku. [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861).
 - Website. [Steve Jobs Archives](https://stevejobsarchive.com/).
+
+Berkabar 29
+
+Berkabar 28
+
+Berkabar 27
+
+Berkabar 26
+
+Berkabar 25
