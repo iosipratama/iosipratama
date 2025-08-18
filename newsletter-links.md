@@ -61,12 +61,17 @@ Daftar links dari newsletter pribadi ku.
 - Buku. [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861).
 - Website. [Steve Jobs Archives](https://stevejobsarchive.com/).
 
-Berkabar 29
+16 Jul 2025: [**Berkabar 29: Passive income untuk desainer**](https://iosipratama.substack.com/p/berkabar-29-passive-income-desainer)
+- Video. [WWDC25 Design Highlights](https://developer.apple.com/videos/design/).
+- Video. [Cara prompt untuk mendesain UI yang cakep](https://x.com/MengTo/status/1925057411439829457) dari Mengto.
+- Video. [Money workshop for designer](https://marketingfordesigners.co/money-workshop)
+- Akun twitter. [Screenshots first company](https://x.com/screenshotfirst).
+- [Playlist](https://www.youtube.com/watch?v=6-aSWlA3WLM) nemenin kerja.
 
-Berkabar 28
+Berkabar 28: Desain + AI = Tetap relevan
 
-Berkabar 27
+Berkabar 27: Terima kasih 2023
 
-Berkabar 26
+Berkabar 26: Being healthy
 
-Berkabar 25
+Berkabar 25: Kalau mau progress jangan banyak ngeles
