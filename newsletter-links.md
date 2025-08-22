@@ -115,7 +115,13 @@ Daftar links dari newsletter pribadi ku.
 - Portfolio. [Jon Labsonki](https://jonyablonski.com/).
 - Design link. [Minimal website](https://minimal.gallery/).
 
-14 Nov 2022: Berkabar 22: Budger belajar.
+14 Nov 2022: [**Berkabar 22: Budger belajar**](https://iosipratama.substack.com/p/berkabar-22-budget-belajar).
+- Desain link. [Goodly.website](https://godly.website/)
+- Desainer. [Brian Lovin](https://brianlovin.com/).
+- Font. [General Sans](https://www.fontshare.com/fonts/general-sans).
+- Buku. [Practical UI](https://www.practical-ui.com/).
+- Desain link. [Nguyen design vault](https://newincreative.notion.site/newincreative/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9#8713fa0b866b4f1ebcf2f2855bd10980). 
+
 
 7 Nov 2022: Berkabar 21: Done today is better than perfect tomorrow
 
