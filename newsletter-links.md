@@ -123,6 +123,14 @@ Daftar links dari newsletter pribadi ku.
 - Desain link. [Nguyen design vault](https://newincreative.notion.site/newincreative/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9#8713fa0b866b4f1ebcf2f2855bd10980). 
 
 
-7 Nov 2022: Berkabar 21: Done today is better than perfect tomorrow
+7 Nov 2022: [**Berkabar 21: Done today is better than perfect tomorrow**](https://iosipratama.substack.com/p/berkabar-21-done-today-is-better)
+- Video. [Design crit](https://brianlovin.com/crit) nya Brian Lovin.
+- Portfolio. [Tanner Christensen](https://twitter.com/tannerc/status/1583506648076722189?s=20&t=H5BuHGI9TmVP7YfNzfXToA). 
+- Font. [Klim Type Foundry](https://klim.co.nz/).
+- Icon. [Untitled Icon](https://www.untitledui.com/icons).
+- Arsitektur. [Rumah baru yg dibeli Andy Cooke](https://twitter.com/thisisandycooke/status/1395267730866114561). 
+- Buku. [The Manual](https://manual.withcompound.com/). 
+
+
 
 4 Jul 2022: Berkabar 20: Sesekali gapapa hari ini tidak lebih baik daripada kemarin. 
