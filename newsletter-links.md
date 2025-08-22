@@ -136,3 +136,13 @@ Daftar links dari newsletter pribadi ku.
 - Buku. [Typography manual by The Futur](https://thefutur.com/delivery/typography-manual).
 - Bacaan. [Branding for crypto and web3](https://www.embacy.io/story/branding-for-crypto)
 - Blog. [Farnam street](https://fs.blog/). 
+
+20 Jun 2022: Berkabar 19: Ada harga yang harus dibayar
+
+23 May 2022: Berkabar 18: Nothing is original
+
+16 May 2022: Berkabar 17: Bukan hanya generalis, tapi komprehensif
+
+9 May 2022: Berkabar 16: Membangun hubungan beyond profesionalisme
+
+18 Apr 2022: Berkabar 15: Gunakan golden time mu untuk hal yang produktif
