@@ -132,5 +132,7 @@ Daftar links dari newsletter pribadi ku.
 - Buku. [The Manual](https://manual.withcompound.com/). 
 
 
-
-4 Jul 2022: Berkabar 20: Sesekali gapapa hari ini tidak lebih baik daripada kemarin. 
+4 Jul 2022: [**Berkabar 20: Sesekali gapapa hari ini tidak lebih baik daripada kemarin](https://iosipratama.substack.com/p/berkabar-20-sesekali-gapapa-hari). 
+- Buku. [Typography manual by The Futur](https://thefutur.com/delivery/typography-manual).
+- Bacaan. [Branding for crypto and web3](https://www.embacy.io/story/branding-for-crypto)
+- Blog. [Farnam street](https://fs.blog/). 
