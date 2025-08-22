@@ -108,7 +108,12 @@ Daftar links dari newsletter pribadi ku.
 - Buku. [Tiny Design Club](https://www.tinydesign.club/). 
 - Link. [Doing cool stuff](https://www.doingcoolstuff.xyz/). 
 
-31 Dec 2022: Berkabar 23: Terima kasih 2022. 
+31 Dec 2022: [**Berkabar 23: Terima kasih 2022**](https://iosipratama.substack.com/p/berkabar-23-terima-kasih-2022). 
+- Bacaan. [Design by Vitsoe](https://www.vitsoe.com/files/assets/1000/17/VITSOE_Dieter_Rams_speech.pdf)
+- Desain link. [AppShot](https://appshots.design/)
+- Desain link. [Dark mode design](https://www.darkmodedesign.com/). 
+- Portfolio. [Jon Labsonki](https://jonyablonski.com/).
+- Design link. [Minimal website](https://minimal.gallery/).
 
 14 Nov 2022: Berkabar 22: Budger belajar.
 
