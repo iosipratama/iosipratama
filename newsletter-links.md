@@ -156,8 +156,19 @@ Daftar links dari newsletter pribadi ku.
 - Buku. [Kumpulan buku favoritnya Tobias van Schneider](https://vanschneider.com/blog/my-favorite-books-on-creativity-productivity-life/?utm_source=pocket_mylist). 
 
 
-16 May 2022: Berkabar 17: Bukan hanya generalis, tapi komprehensif
+16 May 2022: [**Berkabar 17: Bukan hanya generalis, tapi komprehensif**](https://iosipratama.substack.com/p/berkabar-17-bukan-hanya-generalis)
+- Blog. [Tobias van scheneider](https://vanschneider.com/blog/)
+- Tutorial. [Cuberto](https://cuberto.com/tutorials/). 
+- Community. [Design twitter Indonesia](https://twitter.com/i/communities/1496796771975983108). 
 
-9 May 2022: Berkabar 16: Membangun hubungan beyond profesionalisme
+9 May 2022: [**Berkabar 16: Membangun hubungan beyond profesionalisme**](https://iosipratama.substack.com/p/berkabar-16-membangun-hubungan-beyond)
+- Tulisan. [Dwinawan](https://www.dwinawan.com/blog). 
+- Case Study. [Coinbase](https://monikersf.com/project/coinbase). 
+- Case Study. [Pentagram](https://www.pentagram.com/work/sector/banking-finance). 
 
-18 Apr 2022: Berkabar 15: Gunakan golden time mu untuk hal yang produktif
+
+18 Apr 2022: [**Berkabar 15: Gunakan golden time mu untuk hal yang produktif**](https://iosipratama.substack.com/p/berkabar-15-gunakan-golden-time-mu)
+- Bacaan. [design rules by Collins](https://www.wearecollins.com/ideas/101-design-rules/).
+- Desain link. [Universal Sans](https://universalsans.com/#v2.0.0.50.25.40.50.1111111111111111111.01.01.450). 
+- Blog. [Humbleteam shared secrets](https://humbleteam.com/secrets).
+- Website. [Manoverboard](https://manoverboard.com/). 
