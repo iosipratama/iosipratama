@@ -172,3 +172,17 @@ Daftar links dari newsletter pribadi ku.
 - Desain link. [Universal Sans](https://universalsans.com/#v2.0.0.50.25.40.50.1111111111111111111.01.01.450). 
 - Blog. [Humbleteam shared secrets](https://humbleteam.com/secrets).
 - Website. [Manoverboard](https://manoverboard.com/). 
+
+11 Apr 2022: [**Berkabar 14: Belajar caranya belajar**](https://iosipratama.substack.com/p/berkabar-14-belajar-caranya-belajar-c4c)
+- Desain link. [Line design system](https://designsystem.line.me/)
+- Buku. [Buku bahas investasi](https://iosipratama.gumroad.com/l/bahasinvestasi)
+- Desain link. [101 Design rules](https://www.wearecollins.com/ideas/101-design-rules/). 
+- Bacaan. [Conscious culture](https://conscious.org/playbook/). 
+
+4 Apr 2022: Berkabar 13: Bersikap baik offline dan online
+
+28 Mar 2022: Berkabar 12: Menciptakan privilege untuk diri sendiri
+
+21 Mar 2022: Berkabar 11: Berusaha bertahan, jangan menyerah
+
+14 Mar 2022: Berkabar 10: Margin of safety
