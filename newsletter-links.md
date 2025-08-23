@@ -132,14 +132,29 @@ Daftar links dari newsletter pribadi ku.
 - Buku. [The Manual](https://manual.withcompound.com/). 
 
 
-4 Jul 2022: [**Berkabar 20: Sesekali gapapa hari ini tidak lebih baik daripada kemarin](https://iosipratama.substack.com/p/berkabar-20-sesekali-gapapa-hari). 
+4 Jul 2022: [**Berkabar 20: Sesekali gapapa hari ini tidak lebih baik daripada kemarin**](https://iosipratama.substack.com/p/berkabar-20-sesekali-gapapa-hari). 
 - Buku. [Typography manual by The Futur](https://thefutur.com/delivery/typography-manual).
 - Bacaan. [Branding for crypto and web3](https://www.embacy.io/story/branding-for-crypto)
 - Blog. [Farnam street](https://fs.blog/). 
 
-20 Jun 2022: Berkabar 19: Ada harga yang harus dibayar
+20 Jun 2022: [**Berkabar 19: Ada harga yang harus dibayar**](https://iosipratama.substack.com/p/berkabar-19-ada-harga-yang-harus)
+- Online course. [awwwards academy](https://www.awwwards.com/academy/). 
+- Tutorial. [Lightroom masterclass](https://www.youtube.com/playlist?list=PLCYDZvP8YRnog9r-kj0Q9_7QEd-winF0C) oleh Kyler Steele.
+- Website. [eco](https://eco.com/).
+- Desain link. [Goodly website](https://godly.website/). 
+- Newsletter. [Budi Tanrim](https://newsletter.buditanrim.co/). 
+- Typeface. [Inter](https://rsms.me/inter/).
+- Podcast. [Dunia dalama desain](https://anchor.fm/duniadalamdesain).
+- Motion. [showreelz](https://www.showreelz.com/)
+- Case study. [Uno Farm brand identity and website](https://www.behance.net/gallery/144861161/UNOFarm-Brand-Identity-Website). 
 
-23 May 2022: Berkabar 18: Nothing is original
+23 May 2022: [**Berkabar 18: Nothing is original**](https://iosipratama.substack.com/p/berkabar-18-nothing-is-original)
+- Desain link. [Abduzeedo](https://abduzeedo.com/). 
+- Desainer. [Erik Jonsson](https://erikjonsson.se/). 
+- Tulisan. [F*ck you money](https://www.zerohedge.com/personal-finance/fk-you-money). 
+- Tulisan. [How to profit from cryptocurrency](https://hackernoon.com/how-to-profit-from-cryptocurrency-c58b93139db3?utm_source=pocket_mylist). 
+- Buku. [Kumpulan buku favoritnya Tobias van Schneider](https://vanschneider.com/blog/my-favorite-books-on-creativity-productivity-life/?utm_source=pocket_mylist). 
+
 
 16 May 2022: Berkabar 17: Bukan hanya generalis, tapi komprehensif
 
