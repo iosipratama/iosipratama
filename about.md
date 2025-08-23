@@ -1,4 +1,4 @@
-Hey, I’m Iosi, currently living in Surabaya, Indonesia, and working at Tappz. Thanks for stopping by. 
+Hey, I’m Iosi, currently living in Surabaya, Indonesia, and working at Tappz. Thanks for stopping by :). 
 
 Here’s what I’m into:
 

@@ -1,12 +1,10 @@
 My links all over the internet: 
 
-[Website](https://iosipratama.com/)
-
-[Store](https://store.iosipratama.com)
-
-[Hire me via Contra](https://contra.com/iosipratama)
-
-[My studio page](https://studio.iosipratama.com/)
+Main
+- [Website](https://iosipratama.com/)
+- [Store](https://store.iosipratama.com)
+- [Hire me via Contra](https://contra.com/iosipratama)
+- [My studio page](https://studio.iosipratama.com/)
 
 Product 
 - [iOS App Templates on UI8](http://ui8.net/iosipratama)
@@ -31,6 +29,7 @@ Writing
 
 Photography
 - [Unsplash](https://unsplash.com/@iosipratama)
+- [@potretdisengaja](https://www.instagram.com/potretdisengaja) at instagram
 
 Reference
 - [Pinterest](https://id.pinterest.com/iosipratama/)
