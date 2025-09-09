@@ -3,10 +3,10 @@
 Got a question? Ask it anonymously [here](https://forms.gle/beSTt6aHENQn49iW9) using the google form, and I will answer it right here.  
 
 Sep 2025
-Q: What's a recent book or movie that really resonated with you?
+Q: What's a recent book or movie that really resonated with you?  
 A: my wife introduced me to a series titled Alice and the borderland on Netflix, we watched till season 2. It's about a game inside near-death moment where if you fail at certain game you are death in a real life. This series brough me a to realization that indeed our life is a game that we are playing. There are a rules, guidances, prohibitions, consequences and rewards that comes after every decisons.
 
-Q: Where do you invest your money? 
+Q: Where do you invest your money?  
 A: mainly bitcoin & gold
 
 Q: What’s a skill you’re hoping to master by the end of the year?
