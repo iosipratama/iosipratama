@@ -16,11 +16,11 @@
 
 All-time fav books
 - [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
-- The Alchemist by Paulo Coelho
+- [The Alchemist]() by Paulo Coelho
 
 Fav-books about money 
-- Money Master the Game by Anthony Robbins
-- Rich Dad Poor Dad by Robert Kiyosaki
+- [Money Master the Game]() by Anthony Robbins
+- [Rich Dad Poor Dad]() by Robert Kiyosaki
 - [Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681) by Morgan Housel
 - [I will teach you to be rich](https://www.iwillteachyoutoberich.com/i-will-teach-you-to-be-rich-second-edition/) by Remit Sethi
 
@@ -36,11 +36,11 @@ Fav design books
 ---
 
 2024 Read
-- Fall in love with the problem by Uri Levine 
-- 101 Things I Learned® in Product Design School
-- 14 Habits of Highly Productive Developers by Zeno Rocha. 
-- ThatPortfolio Book by Dann Petty
-- [Zero to Sold](https://zerotosold.com/) by Arvid Kahl
+- ✅ [Fall in love with the problem]() by Uri Levine 
+- ✅ [101 Things I Learned® in Product Design School]()
+- ✅ [14 Habits of Highly Productive Developers]() by Zeno Rocha. 
+- ✅ [ThatPortfolio Book]() by Dann Petty
+- ✅ [Zero to Sold](https://zerotosold.com/) by Arvid Kahl
 
 
 2023 Read
@@ -49,7 +49,7 @@ Fav design books
 
 
 2022 Read
-- [I will teach you to be rich](https://www.iwillteachyoutoberich.com/i-will-teach-you-to-be-rich-second-edition/) by Remit Sethi
-- No Rules Rules: Netflix and the Culture of Reinvention
-- How to win friends and Influence People
-- The Rational Optimist: How Prosperity Evolves 
+- ✅ [I will teach you to be rich](https://www.iwillteachyoutoberich.com/i-will-teach-you-to-be-rich-second-edition/) by Remit Sethi
+- [No Rules Rules: Netflix and the Culture of Reinvention]()
+- [How to win friends and Influence People]()
+- [The Rational Optimist: How Prosperity Evolves]() 
