@@ -9,6 +9,7 @@
 - [My Indie Book](https://www.myindiebook.com/) by Tony Dinh
 - [Clear Thinking](https://fs.blog/clear/) by Shane Parrish
 - [Design by Intelligence](https://adplist.org/design-by-intelligence) by ADPList
+- ✅ [Learn to Code with ChatGPT]() by Hubspot + Sundash Khalid 
 
 
 --- 
