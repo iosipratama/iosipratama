@@ -29,8 +29,8 @@ Fav-books about work
 - It doesn't have to be crazy at work
 
 Fav design books
-- Dieter Rams: the complete works
-- Dieter Rams: As Little Design as Possible.
+- [Dieter Rams: the complete works]()
+- [Dieter Rams: As Little Design as Possible.]()
 
 
 ---
