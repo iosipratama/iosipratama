@@ -10,3 +10,7 @@ Here’s what I’m into:
 
 **Sports:** Lately, I’ve been hitting the gym for some strength training. I also enjoy badminton, swimming, and football, and I’m looking forward to getting into calisthenics soon.
 
+---
+
+**Contact**
+iMessage or email: hey@iosipratama.com
