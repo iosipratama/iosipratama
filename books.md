@@ -1,4 +1,4 @@
-
+#
 [Literal Club](https://literal.club/iosipratama) - Alternative to goodreads
 
 [Book highlights](https://www.goodreads.com/notes/152145572-iosi-pratama) - My kindle notes and highlights on goodreads
@@ -55,7 +55,21 @@ Fav design books
 - [How to win friends and Influence People]()
 - [The Rational Optimist: How Prosperity Evolves]() 
 
+- [Why Does The Stock Market Go Up]() by Brian Feroldi
+- [Essentialism]() by Greg Mckeown
+- [Jony Ive]() by Leander Kahney
+- ✅ [Keep Going]() by Austin Kleon
+- ✅ [Show Your Work] by Austin Kleon
+- ✅ [Steal Like an Artist]() by Austin Kleon
+- [The 4-Hour Work Week]() by Timothy Ferris
+- [Insanely Simple]() by Ken Segall
+- [How to win friends and influence people]() by Dale Carnegie
+- [The Rational Optimist]() by Matt Ridley
 - [The Making of Manager]() by Julie Zhue
+- [Netflix: No Rules Rules] by Reed Hastings
+- [Broke Millenials]() by Erin Lowry
+- [Rare Breed]() by Sunny Bonnel
+- [Halal Investing for beginner]() by Ibrahim Khan and Mohsin Patel
 - [How To...]() by Michael Bierut
 - [Build]() by Tony Fadel
 - [The minimalist entrepreneur]() by Sahil Lavingia
