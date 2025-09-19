@@ -55,25 +55,29 @@ Fav design books
 - [How to win friends and Influence People]()
 - [The Rational Optimist: How Prosperity Evolves]() 
 
-
+- [The Making of Manager]() by Julie Zhue
+- [How To...]() by Michael Bierut
+- [Build]() by Tony Fadel
+- [The minimalist entrepreneur]() by Sahil Lavingia
+- ✅ [It doesn't have to be crazy at work]() by Jason Fried 
 - [That Portfolio Book]() by Dann Petty and Friends
 - [The Shape of Design]() by Frank Chimero
 - [A designer's Art]() by Paul Rand
-- [Make Time]() by Jake Knapp & John Zeratsky
-- [How I became an iOS Developer]() by Sean Allen 
+- ✅ [Make Time]() by Jake Knapp & John Zeratsky
+- ✅ [How I became an iOS Developer]() by Sean Allen 
 - [Make Something Wonderful - Steve Jobs in his own words]() 
 - [The Vigneli Cannon]()
-- [Marketing for Honest Freelancer]() by Ran Segall
+- ✅ [Marketing for Honest Freelancer]() by Ran Segall
 - [The Enjoyable Company]() by The Living Core
 - [Practical UI]() by Adam Dannaway
-- [What I've Learned so far]() by John Westerberg
-- [Twenty Bits I learned about Business, Design, and Community]() by Dan Cederholm
+- ✅ [What I've Learned so far]() by John Westerberg
+- ✅ [Twenty Bits I learned about Business, Design, and Community]() by Dan Cederholm
 - [Jobs to Be Done]() by Anthony W. Ulwick
 - [a pocket Guide: Combining Typeface]() by Tim Brown
 - [ShapeUp]() by Basecamp
 - [Microcopy The Complete Guide] by Kinnereth Yifrah
-- [Mastering Freelance]() by Anton Sten
-- [Freelance and Business and Stuff]() by Amy Hood and Jennifer Hood of Hoodzpah
+- ✅ [Mastering Freelance]() by Anton Sten
+- ✅ [Freelance and Business and Stuff]() by Amy Hood and Jennifer Hood of Hoodzpah
 - [Getting Real]() by Basecamp
 
 
