@@ -54,3 +54,26 @@ Fav design books
 - [No Rules Rules: Netflix and the Culture of Reinvention]()
 - [How to win friends and Influence People]()
 - [The Rational Optimist: How Prosperity Evolves]() 
+
+
+- [That Portfolio Book]() by Dann Petty and Friends
+- [The Shape of Design]() by Frank Chimero
+- [A designer's Art]() by Paul Rand
+- [Make Time]() by Jake Knapp & John Zeratsky
+- [How I became an iOS Developer]() by Sean Allen 
+- [Make Something Wonderful - Steve Jobs in his own words]() 
+- [The Vigneli Cannon]()
+- [Marketing for Honest Freelancer]() by Ran Segall
+- [The Enjoyable Company]() by The Living Core
+- [Practical UI]() by Adam Dannaway
+- [What I've Learned so far]() by John Westerberg
+- [Twenty Bits I learned about Business, Design, and Community]() by Dan Cederholm
+- [Jobs to Be Done]() by Anthony W. Ulwick
+- [a pocket Guide: Combining Typeface]() by Tim Brown
+- [ShapeUp]() by Basecamp
+- [Microcopy The Complete Guide] by Kinnereth Yifrah
+- [Mastering Freelance]() by Anton Sten
+- [Freelance and Business and Stuff]() by Amy Hood and Jennifer Hood of Hoodzpah
+- [Getting Real]() by Basecamp
+
+
