@@ -9,6 +9,7 @@
 - ⏳📖 [My Indie Book](https://www.myindiebook.com/) by Tony Dinh
 - ⏳📖 [Clear Thinking](https://fs.blog/clear/) by Shane Parrish
 - ⏳📖 [Design by Intelligence](https://adplist.org/design-by-intelligence) by ADPList
+- ⏳📖 [The Swift 5.7 Programming Language ](https://books.apple.com/id/book/the-swift-programming-language-swift-5-7/id881256329) by Apple
 - ✅ [Learn to Code with ChatGPT]() by Hubspot + Sundash Khalid 
 
 
