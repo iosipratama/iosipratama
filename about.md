@@ -2,7 +2,7 @@ Hey, I’m Iosi, currently living in Surabaya, Indonesia, and working at Tappz. 
 
 Here’s what I’m into:
 
-**Product Design:** I'm passionate about making beautifully simple apps.  
+**Product Design:** I love making beautifully simple apps.  
 
 **Entrepreneurship:** I’ve tried building startups before - and failed. Now I’m focused on bootstrapping my studio to help me bring my next idea to life.
 
@@ -12,5 +12,5 @@ Here’s what I’m into:
 
 ---
 
-**Contact**
+**Contact**  
 iMessage or email: hey@iosipratama.com
