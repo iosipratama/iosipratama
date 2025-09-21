@@ -102,7 +102,17 @@ Fav design books
 2020 Read
 - ⏸️ [Getting Real]() by Jason Fried, Basecamp
 - ⏸️ [ShapeUp]() by Jason Fried, Basecamp
-
+- ✅ [The Rules of Work]() by Person
+- [Masih Belajar]() by Iman Usman
+- [Self Acceptance]() by Diana Rikasari
+- [Job to be done]() by Intercom
+- [Manajemen Modern dengan Scrum]() by Joshua Prastogi
+- [Yuk Belajar Nabung Saham]() by Ryan Filbert
+- [Rules of Investment]() by Bambang Mulyadi
+- [Being Skeptical]() by Robert Kiyosaki
+- [Workshopper Playbok]() by Jonathan Courtney
+- [Life Skills]() by Yodhia Antariksa
+- [The Someday Funds]() by John Zeratsky
 
 2019 Read 
 - ✅ [What I've Learned so far]() by John Westerberg
