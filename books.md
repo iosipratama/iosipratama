@@ -26,8 +26,8 @@ Fav-books about money
 - [I will teach you to be rich](https://www.iwillteachyoutoberich.com/i-will-teach-you-to-be-rich-second-edition/) by Remit Sethi
 
 Fav-books about work  
-- Rework
-- It doesn't have to be crazy at work
+- [Rework]() by by Jason Fried, Basecamp
+- [It doesn't have to be crazy at work]() by by Jason Fried, Basecamp
 
 Fav design books
 - [Dieter Rams: the complete works]()
@@ -100,8 +100,8 @@ Fav design books
 
 
 2020 Read
-- ⏸️ [Getting Real]() by Basecamp
-- ⏸️ [ShapeUp]() by Basecamp
+- ⏸️ [Getting Real]() by Jason Fried, Basecamp
+- ⏸️ [ShapeUp]() by Jason Fried, Basecamp
 
 
 2019 Read 
@@ -111,8 +111,11 @@ Fav design books
 2018 Read
 - ⏸️ [Microcopy The Complete Guide]() by Kinnereth Yifrah 
  
+2017 Read
+- 
 
-
+2016 Read
+- 
  
  
 

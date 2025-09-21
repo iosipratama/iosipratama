@@ -3,6 +3,12 @@
 Got a question? Ask it anonymously [here](https://forms.gle/beSTt6aHENQn49iW9) using the google form, and I will answer it right here.  
 
 **Sep 2025.**  
+Q: Any favorite apps or tools you can't live without?  
+A: I believe we are so dependent on tech devices and apps nowadays.  
+
+Q: Any upcoming projects you’re super excited about?  
+A: not yet, maybe later when I build my own app. 
+
 Q: What's a recent book or movie that really resonated with you?  
 A: my wife introduced me to a series titled Alice and the borderland on Netflix, we watched till season 2. It's about a game inside near-death moment where if you fail at certain game you are death in a real life. This series brough me a to realization that indeed our life is a game that we are playing. There are a rules, guidances, prohibitions, consequences and rewards that comes after every decisons.
 
