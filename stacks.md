@@ -2,6 +2,8 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 
 
 ### 🛠️ Hardware 
+- **Carvi Desk**: working desk.  
+- **Dekoruma Studio Alpha Chair**: ergonomic chair. 
 - **MacBook Pro M3 (14-inch)**: my main work machine.  
 - **iPhone 14 Pro**: phone for personal and work. 
 - **Magic Mouse**: comfortable for design use.
