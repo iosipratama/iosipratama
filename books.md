@@ -4,7 +4,9 @@
 [Book highlights](https://www.goodreads.com/notes/152145572-iosi-pratama) - My kindle notes and highlights on goodreads
 
 2025 Read
-- 📖 [The Bitcoin Standard](https://saifedean.com/tbs) by Saifedean Ammous
+- 📖 [iOS Human Interface Guidelines]() by Apple, 2011. 
+- 📖 [The Treasury of Michael Saylor](https://anilsaidso.gumroad.com/l/treasuryofsaylor) by Anil Panel
+- ⏸️ [The Bitcoin Standard](https://saifedean.com/tbs) by Saifedean Ammous
 - ⏸️ [Excellent Advice for Living](https://kk.org/books/excellent-advice-for-living) by Kevin Kelly
 - ⏸️ [My Indie Book](https://www.myindiebook.com/) by Tony Dinh
 - ⏸️ [Clear Thinking](https://fs.blog/clear/) by Shane Parrish
