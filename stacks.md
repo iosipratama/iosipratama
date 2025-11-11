@@ -32,11 +32,12 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 
 ### 📱 Other apps
 - [**Dia**](https://www.diabrowser.com/): main browser.
-- [**t3.Chat**](https://t3.chat/): cheaper alternative to chatgpt with access to other models. 
+- [**ChatGPT**](https://chatgpt.com/): main ai-assistant.
 - [**Raycast**](https://www.raycast.com/): better macOS spotlight alternative
 - [**Notion**](https://www.notion.so/): wiki for organizing life & business.  
 - [**Upnote**](https://getupnote.com/): second brain note.
 - [**Focusee**](https://focusee.imobie.com/): screen recording.   
+- [**Eagle**](https://eagle.cool/) & [**Hive**](https://apps.apple.com/id/app/hive-image-organizer/id6502647802): saving visual references.  
 - [**YouTube Music**](https://music.youtube.com/): streaming music.  
 - **Apple Calendar**: keeps my schedule on track.  
 - **Reminders**: simple and effective for quick to-dos, share with my wife. 
