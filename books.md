@@ -3,16 +3,9 @@
 
 [Book highlights](https://www.goodreads.com/notes/152145572-iosi-pratama) - My kindle notes and highlights on goodreads
 
-2025 Read
-- 📖 [iOS Human Interface Guidelines]() by Apple, 2011. 
-- 📖 [The Treasury of Michael Saylor](https://anilsaidso.gumroad.com/l/treasuryofsaylor) by Anil Panel
-- ⏸️ [The Bitcoin Standard](https://saifedean.com/tbs) by Saifedean Ammous
-- ⏸️ [Excellent Advice for Living](https://kk.org/books/excellent-advice-for-living) by Kevin Kelly
-- ⏸️ [My Indie Book](https://www.myindiebook.com/) by Tony Dinh
-- ⏸️ [Clear Thinking](https://fs.blog/clear/) by Shane Parrish
-- ⏸️ [Design by Intelligence](https://adplist.org/design-by-intelligence) by ADPList
-- 📖 [The Swift 5.7 Programming Language ](https://books.apple.com/id/book/the-swift-programming-language-swift-5-7/id881256329) by Apple
-- ✅ [Learn to Code with ChatGPT]() by Hubspot + Sundash Khalid 
+2026 Read
+- 
+
 
 --- 
 
@@ -37,6 +30,18 @@ Fav design books
 
 
 ---
+
+2025 Read
+- 📖 [iOS Human Interface Guidelines]() by Apple, 2011. 
+- 📖 [The Treasury of Michael Saylor](https://anilsaidso.gumroad.com/l/treasuryofsaylor) by Anil Panel
+- ⏸️ [The Bitcoin Standard](https://saifedean.com/tbs) by Saifedean Ammous
+- ⏸️ [Excellent Advice for Living](https://kk.org/books/excellent-advice-for-living) by Kevin Kelly
+- ⏸️ [My Indie Book](https://www.myindiebook.com/) by Tony Dinh
+- ⏸️ [Clear Thinking](https://fs.blog/clear/) by Shane Parrish
+- ⏸️ [Design by Intelligence](https://adplist.org/design-by-intelligence) by ADPList
+- 📖 [The Swift 5.7 Programming Language ](https://books.apple.com/id/book/the-swift-programming-language-swift-5-7/id881256329) by Apple
+- ✅ [Learn to Code with ChatGPT]() by Hubspot + Sundash Khalid 
+
 
 2024 Read
 - ✅ [101 Things I Learned® in Product Design School]() by Sung Jang, etc
