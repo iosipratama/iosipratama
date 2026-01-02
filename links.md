@@ -2,12 +2,8 @@ My links all over the internet:
 
 Main
 - [Website](https://iosipratama.com/)
-- [Store](https://store.iosipratama.com)
-- [Hire me via Contra](https://contra.com/iosipratama)
-- [My studio page](https://studio.iosipratama.com/)
-
-Product 
-- [iOS App Templates on UI8](http://ui8.net/iosipratama)
+- [Store - iOS app templates](https://store.iosipratama.com)
+- [My studio page](https://mekarya.studio)
 
 Work
 - [Github](https://github.com/iosipratama) 
@@ -23,8 +19,8 @@ Social Network
 - [Linkedin](https://www.linkedin.com/in/iosipratama/) - in/iosipratama
 
 Writing 
-- [Blog](https://iosipratama.com/blog)
 - [Medium](https://medium.com/@iosipratama)
+- [Blog](https://iosipratama.com/blog)
 - [Newsletter in bahasa indonesia](https://iosipratama.substack.com/) 
 
 Photography

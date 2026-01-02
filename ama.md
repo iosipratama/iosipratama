@@ -2,6 +2,11 @@
 
 Got a question? Ask it anonymously [here](https://forms.gle/beSTt6aHENQn49iW9) using the google form, and I will answer it right here.  
 
+**Jan 2026.**  
+Q: What's your new year resolution, Iosi?  
+A: get better at work, launch my new app, have more incomes from side projects, be the best husband and dad for my wife and daughter.
+
+
 **Sep 2025.**  
 Q: Any favorite apps or tools you can't live without?  
 A: I believe we are so dependent on tech devices and apps nowadays.  
