@@ -4,7 +4,7 @@ Here’s what I’m into:
 
 **Software Design:** I love making beautifully simple apps and this is what I do for living. 
 
-**Entrepreneurship:** I’ve tried building startups before - and failed. Now I’m focused on bootstrapping my studio to help me bring my next idea to life.
+**Entrepreneurship:** I’ve tried building startups before - and failed. Now I’m focused on bootstrapping my [studio](https://mekarya.studio/) to help me bring my next idea to life.
 
 **Side Projects:** I’m always exploring new things and trying out different projects. 
 

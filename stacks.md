@@ -18,8 +18,8 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 
 ### 🖥️ Development Tools
 - [**GitHub**](https://github.com/): to store and share projects.
-- [**Visual Studio Code**](https://code.visualstudio.com/): IDE for web dev. 
 - [**Xcode**](https://developer.apple.com/xcode/): for building iOS app.
+- [**Google Antigravity**](https://antigravity.google.com/): IDE for web dev. 
 - [**Framer**](https://www.framer.com/): building faster websites. 
 - [**Playground**](https://www.apple.com/id/swift/playgrounds/): learn Swift and SwiftUI. 
 
@@ -32,7 +32,7 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 
 ### 📱 Other apps
 - [**Dia**](https://www.diabrowser.com/): main browser.
-- [**ChatGPT**](https://chatgpt.com/): main ai-assistant.
+- [**Claude**](https://claude.ai/): main ai-assistant.
 - [**Raycast**](https://www.raycast.com/): better macOS spotlight alternative
 - [**Notion**](https://www.notion.so/): wiki for organizing life & business.  
 - [**Upnote**](https://getupnote.com/): second brain note.
