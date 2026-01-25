@@ -44,7 +44,10 @@ A curated list of the tools, apps, and products I use regularly for life, work, 
 - [**Things**](https://culturedcode.com/): this apps to organize my side-project to-dos. 
 - [**Raindrop**](https://raindrop.io/): managing bookmarks.
 - [**ProtonMail**](http://protonmail.com/): privacy-first email for finance needs. 
-- [**PureVPN**](https://www.purevpn.com/): stay secured and private. 
+- [**PureVPN**](https://www.purevpn.com/): stay secured and private.
+- [**Zoho Mail**](https://www.zoho.com/mail/): email for business. 
+- [**Porkbun**](https://porkbun.com/): domain registrar. 
+- [**Linode**](https://www.linode.com/): VPS for hosting. 
 
 
 ### 💸 Finance

@@ -2,8 +2,9 @@ My links all over the internet:
 
 Main
 - [Website](https://iosipratama.com/)
-- [Store - iOS app templates](https://store.iosipratama.com)
-- [My studio page](https://mekarya.studio)
+- [mekarya Studio](https://mekarya.studio)
+- [App Store](https://apps.apple.com/us/developer/iosi-pratama-putra/id1867084027)
+- [Store - design templates](https://store.iosipratama.com)
 
 Work
 - [Github](https://github.com/iosipratama) 
