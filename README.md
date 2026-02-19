@@ -2,6 +2,12 @@ tinkering with the look and feel of software.
 
 [Website](https://iosipratama.com/)
 
+Current projects 
+- [indiecia](https://www.useindiecia.com/) - app store intelligence for indie-budgets. 
+ 
+Apps
+- [Translate Offline app](https://apps.apple.com/us/app/translate-offline/id6757454429) - Offline translation app for mac OS. 
+
 
 <!--
 **iosipratama/iosipratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
