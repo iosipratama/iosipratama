@@ -2,10 +2,10 @@ tinkering with the look and feel of software.
 
 [Website](https://iosipratama.com/)
 
-Current projects 
+current projects 
 - [indiecia](https://www.useindiecia.com/) - app store intelligence for indie-budgets. 
  
-Apps
+apps
 - [Translate Offline app](https://apps.apple.com/us/app/translate-offline/id6757454429) - Offline translation app for mac OS. 
 
 
