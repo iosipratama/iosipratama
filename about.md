@@ -13,5 +13,5 @@ Here’s what I’m into:
 ---
 
 **Contact**  
-iMessage or email: hey@iosipratama.com
 Telegram: @iosipratama
+iMessage or email: hey@iosipratama.com
