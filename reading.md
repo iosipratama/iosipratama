@@ -1,10 +1,11 @@
-#
+
+Books that I'm reading and have read. 
+
+See the updated version on [my website](https://iosipratama.com/reading). 
+
 [Literal Club](https://literal.club/iosipratama) - Alternative to goodreads
 
 [Book highlights](https://www.goodreads.com/notes/152145572-iosi-pratama) - My kindle notes and highlights on goodreads
-
-2026 Read
-- 
 
 
 --- 

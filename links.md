@@ -1,5 +1,7 @@
 My links all over the internet: 
 
+See all on [my website](https://iosipratama.com/all). 
+
 Main
 - [Website](https://iosipratama.com/)
 - [mekarya Studio](https://mekarya.studio)

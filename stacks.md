@@ -1,5 +1,7 @@
 A curated list of the tools, apps, and products I use regularly for life, work, and learning.
 
+See the updated version on [my website](https://iosipratama.com/stack).
+
 
 ### 🛠️ Hardware 
 - **Carvi Desk**: working desk.  
