@@ -1,12 +1,18 @@
 tinkering with the look and feel of software. 
 
-[Website](https://iosipratama.com/)
+[Personal website](https://iosipratama.com/)
 
 current projects 
-- [indiecia](https://www.useindiecia.com/) - app store intelligence for indie-budgets. 
+-
  
 apps
 - [Translate Offline app](https://apps.apple.com/us/app/translate-offline/id6757454429) - Offline translation app for mac OS. 
+
+
+
+mini tools
+- [figjam to tldraw](https://figjam-to-tldraw.vercel.app/)
+- invoice generator
 
 
 <!--
