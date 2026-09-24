@@ -6,6 +6,7 @@ current projects
 -
  
 apps
+- [Sato](https://apps.apple.com/id/app/sato-bitcoin-tracker/id6811720640): Bitcoin portfolio tracker ios app
 - [Translate Offline app](https://apps.apple.com/us/app/translate-offline/id6757454429) - Offline translation app for mac OS. 
 
 
