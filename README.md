@@ -14,6 +14,7 @@ apps
 mini tools
 - [figjam to tldraw](https://figjam-to-tldraw.vercel.app/)
 - invoice generator
+- [crypto logos](https://crypto-icons-web.vercel.app/)
 
 
 <!--
