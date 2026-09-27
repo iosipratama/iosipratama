@@ -13,7 +13,7 @@ apps
 
 mini tools
 - [figjam to tldraw](https://figjam-to-tldraw.vercel.app/)
-- invoice generator
+- [invoice generator](https://invoice-generator-web-sable.vercel.app/)
 - [crypto logos](https://crypto-icons-web.vercel.app/)
 
 
