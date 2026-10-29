@@ -13,7 +13,7 @@ tinkering with the look and feel of software.
 - [invoice generator](https://invoice-generator-web-sable.vercel.app/): make invoices and export them as pdf
 - [crypto logos](https://crypto-icons-web.vercel.app/): 800+ svg crypto icons
 
-more: [about](about.md) · [works](works.md) · [stacks](stacks.md) · [reading](reading.md)
+more: [about](https://iosipratama.com/about) · [stack](https://iosipratama.com/stack) · [reading](https://iosipratama.com/reading)
 
 
 <!--
