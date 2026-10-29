@@ -5,9 +5,11 @@ tinkering with the look and feel of software.
 current projects 
 -
  
-apps
-- [Sato](https://apps.apple.com/app/id6811720640): Bitcoin portfolio tracker ios app
-- [Translate Offline app](https://apps.apple.com/app/id6757454429?mt=12) - Offline translation app for mac OS. 
+apps ([mekarya.studio](https://mekarya.studio/))
+- [Sato](https://apps.apple.com/app/id6811720640?mt=8&ct=github&pt=128429999): Bitcoin portfolio tracker for iPhone
+- [Translate Offline](https://apps.apple.com/app/id6757454429?mt=12&ct=github&pt=128429999): offline translation app for Mac
+- [KeyStash](https://apps.apple.com/app/id6816593212?ct=github&pt=128429999): API key manager for Mac, iPhone, and iPad
+- [Crypto Contacts](https://apps.apple.com/app/id6815055632?mt=8&ct=github&pt=128429999): address book for crypto wallet addresses on iPhone
 
 
 
