@@ -1,22 +1,19 @@
-tinkering with the look and feel of software. 
+tinkering with the look and feel of software.
 
-[Personal website](https://iosipratama.com/)
+[website](https://iosipratama.com/) · [mekarya.studio](https://mekarya.studio/)
 
-current projects 
--
- 
-apps ([mekarya.studio](https://mekarya.studio/))
-- [Sato](https://apps.apple.com/app/id6811720640?mt=8&ct=github&pt=128429999): Bitcoin portfolio tracker for iPhone
-- [Translate Offline](https://apps.apple.com/app/id6757454429?mt=12&ct=github&pt=128429999): offline translation app for Mac
-- [KeyStash](https://apps.apple.com/app/id6816593212?ct=github&pt=128429999): API key manager for Mac, iPhone, and iPad
-- [Crypto Contacts](https://apps.apple.com/app/id6815055632?mt=8&ct=github&pt=128429999): address book for crypto wallet addresses on iPhone
+### apps
+- [KeyStash](https://apps.apple.com/app/id6816593212?ct=github&pt=128429999): api key manager for mac, iphone, and ipad
+- [Crypto Contacts](https://apps.apple.com/app/id6815055632?mt=8&ct=github&pt=128429999): address book for crypto wallet addresses
+- [Sato](https://apps.apple.com/app/id6811720640?mt=8&ct=github&pt=128429999): bitcoin portfolio tracker for iphone
+- [Translate Offline](https://apps.apple.com/app/id6757454429?mt=12&ct=github&pt=128429999): offline translator for mac
 
+### mini tools
+- [figjam to tldraw](https://figjam-to-tldraw.vercel.app/): convert figjam boards into tldraw files
+- [invoice generator](https://invoice-generator-web-sable.vercel.app/): make invoices and export them as pdf
+- [crypto logos](https://crypto-icons-web.vercel.app/): 800+ svg crypto icons
 
-
-mini tools
-- [figjam to tldraw](https://figjam-to-tldraw.vercel.app/)
-- [invoice generator](https://invoice-generator-web-sable.vercel.app/)
-- [crypto logos](https://crypto-icons-web.vercel.app/)
+more: [about](about.md) · [works](works.md) · [stacks](stacks.md) · [reading](reading.md)
 
 
 <!--
