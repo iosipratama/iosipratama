@@ -1,7 +1,5 @@
 tinkering with the look and feel of software.
 
-[website](https://iosipratama.com/) · [mekarya.studio](https://mekarya.studio/)
-
 ### apps
 - [KeyStash](https://apps.apple.com/app/id6816593212?ct=github&pt=128429999): api key manager for mac, iphone, and ipad
 - [Crypto Contacts](https://apps.apple.com/app/id6815055632?mt=8&ct=github&pt=128429999): address book for crypto wallet addresses
@@ -13,7 +11,7 @@ tinkering with the look and feel of software.
 - [invoice generator](https://invoice-generator-web-sable.vercel.app/): make invoices and export them as pdf
 - [crypto logos](https://crypto-icons-web.vercel.app/): 800+ svg crypto icons
 
-more: [about](https://iosipratama.com/about) · [stack](https://iosipratama.com/stack) · [reading](https://iosipratama.com/reading)
+more: [website](https://iosipratama.com/) · [about](https://iosipratama.com/about) · [stack](https://iosipratama.com/stack) · [reading](https://iosipratama.com/reading)
 
 
 <!--
